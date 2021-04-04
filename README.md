@@ -1,5 +1,5 @@
 
-# University Directory website
+# Omniauth + Facebook + Google + Devise
 
 > This project is a demonstration the use of Facebook and Google omniauth in simple steps with devise.
 <!-- ![screenshot](assets/screen.png) -->
